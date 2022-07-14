@@ -33,3 +33,5 @@ function App() {
 }
 
 export default App;
+
+// user-u cand alege locatia, dupa se va alage locatia cu cele mai multe voturi
